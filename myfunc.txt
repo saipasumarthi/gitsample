@@ -1,3 +1,6 @@
 onefunction- I have added a very important function
 secondfuction - test2
 thirrd function - test3
+
+
+added chart function in new branch
