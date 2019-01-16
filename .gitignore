@@ -7,3 +7,4 @@ assets/videos/
 !App.js
 DS_STORE
 *.log
+.php
